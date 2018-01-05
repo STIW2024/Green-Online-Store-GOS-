@@ -1,4 +1,4 @@
-# Green Online Store GOS
+# Green Online Store (GOS)
 
 Team Members
 
